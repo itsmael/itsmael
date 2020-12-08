@@ -10,8 +10,8 @@
 
 
 ### Olá! Boas vindas :)  👋
-- 🔭 Trabalho como devops 
-- 🌱 Estou estudando delphi, python e javascript
+- Sou DevOps, apaixonado por linux e computadores desde 2011 quando conheci esse mundo!
+- Estou estudando delphi, python e javascript
 
 <!--
 **itsmael/itsmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
