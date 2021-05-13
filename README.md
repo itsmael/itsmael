@@ -1,17 +1,27 @@
 <img src="https://github.com/itsmael/itsmael/blob/main/ismael%20moura.png?raw=true">
 <center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmael&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=itsmael&theme=buefy"/></td>
-    </tr>   
-</table>
+<h1> Ismael Moura </h1>
 </center>  
 
+## Hi 👋
 
-### Olá! Boas vindas :)  👋
-- Sou DevOps, apaixonado por linux e computadores desde 2011 quando conheci esse mundo!
-- Estou estudando delphi, python e javascript
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-moura/)](https://www.linkedin.com/in/ismael-moura/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/3lnx)](https://medium.com/3lnx)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:ismour.ol@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/itsmaell)](https://www.twitter.com/itsmaell)
+
+I'm Ismael, a DevOps from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+
+More about me:
+-  I’m currently working on Fortes Tecnologia
+- Send me an [Email](mailto:ismour.ol@gmail.com.br) or a DM on [Twitter](https://www.twitter.com/itsmaell) if you want to contact me 
+<br/>
+<table>
+    <tr>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmael&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=itsmael&theme=buefy"/></td>
+    </tr>   
+</table>
 
 <!--
 **itsmael/itsmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
