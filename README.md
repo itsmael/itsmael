@@ -1,4 +1,6 @@
-<img src="https://github.com/itsmael/itsmael/blob/main/ismael%20moura.png?raw=true">
+<!--
+<img src="https://github.com/itsmael/itsmael/blob/main/images/itsmaell.png?raw=true">
+-->
 <center>
 <h1> Ismael Moura </h1>
 </center>  
