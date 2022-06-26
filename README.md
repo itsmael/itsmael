@@ -2,7 +2,7 @@
 <img src="https://github.com/itsmael/itsmael/blob/main/images/itsmaell.png?raw=true">
 -->
 <h1 align="center">Hi 👋, I'm Ismael Moura</h1>
-<h2 align="center">DevOps</h2>
+<h2 align="center">DevOps/DBRE</h2>
 <div align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-moura/)](https://www.linkedin.com/in/ismael-moura/)
