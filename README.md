@@ -14,7 +14,7 @@
 I'm Ismael, a DevOps from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
 More about me:
--  I’m currently working on Fortes Tecnologia
+-  I’m currently working on Creditas
 - Send me an [Email](mailto:ismour.ol@gmail.com.br) or a DM on [Twitter](https://www.twitter.com/itsmaell) if you want to contact me 
 <br/>
 <table>
