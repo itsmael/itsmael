@@ -6,12 +6,11 @@
 <div align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismael-moura/)](https://www.linkedin.com/in/ismael-moura/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/3lnx)](https://medium.com/3lnx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anajuliabit@gmail.com)](mailto:ismour.ol@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/itsmaell)](https://www.twitter.com/itsmaell)
 
 </div>
-I'm Ismael, a DevOps from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+I'm Ismael, a Database Reliability Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
 
 More about me:
 -  I’m currently working on Creditas
